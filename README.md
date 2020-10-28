@@ -7,11 +7,11 @@ A Collection of Real Workspace setups from Real People
 📫 Want weekly setup pics in your inbox? Join the newsletter [here](https://www.setuphomeofficepro.com/workspace-setups?utm_source=github)!
 
 
-<a href="https://pictag.app/"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
+<a href="#"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
 <a href="https://pictag.app/share/1kHMJ"><image src = "https://pictag.app/api/pictures/share/1kHMJ" alt="Rosen's home office setup" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
+<a href="#"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
+<a href="#"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
+<a href="#"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
 
 # To Contribute
 
