@@ -15,7 +15,7 @@ A Collection of Real Workspace setups from Real People
 
 # To Contribute
 
-If you wish to list your setup here
+If you wish to list your setup here:
 
 1. Fork the Project
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
