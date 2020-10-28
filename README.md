@@ -18,8 +18,14 @@ A Collection of Real Workspace setups from Real People
 If you wish to list your setup here:
 
 1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+2. Create your Feature Branch 
+
+        git checkout -b feature/AmazingFeature
 3. Upload your setup on [Imgur](https://imgur.com/upload) or [Pictag.App](https://pictag.app/) (Preferred inorder to tag items)
-4. Commit your Changes (git commit -m 'Add some AmazingFeature')
-5. Push to the Branch (git push origin feature/AmazingFeature)
+4. Commit your Changes
+    
+       git commit -m 'Add some AmazingFeature'
+5. Push to the Branch
+
+        git push origin feature/AmazingFeature
 6. Open a Pull Request
