@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "geongeorge",
+      "name": "Geon George",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29296982?v=4",
+      "profile": "http://geongeorge.com",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Awesome-Workstations",
+  "projectOwner": "Felixjosemon",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
