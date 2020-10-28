@@ -9,9 +9,9 @@ A Collection of Real Workspace setups from Real People
 
 <a href="#"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
 <a href="https://pictag.app/share/1kHMJ"><image src = "https://pictag.app/api/pictures/share/1kHMJ" alt="Rosen's home office setup" width="250px" height="250px"></image></a>
-<a href="#"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
-<a href="#"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
-<a href="#"><image src = "https://i.pinimg.com/originals/9c/ea/df/9ceadf78fe3266e437407c868e35af20.jpg" alt="Workplace" width="250px" height="250px"></image></a>
+<a href="#"><image src = "https://pictag.app/api/pictures/share/JVDW_" alt="Workplace" width="250px" height="250px"></image></a>
+<a href="#"><image src = "https://pictag.app/api/pictures/share/h38EM" alt="Workplace" width="250px" height="250px"></image></a>
+<a href="#"><image src = "https://pictag.app/api/pictures/share/jNZ3s" alt="Workplace" width="250px" height="250px"></image></a>
 
 # To Contribute
 
