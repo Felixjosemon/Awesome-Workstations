@@ -17,13 +17,12 @@ A Collection of Real Workspace setups from Real People
 <a href="#"><image src = "https://pictag.app/api/pictures/share/jNZ3s" alt="Workplace" width="250px" height="250px"></image></a>
 <a href="https://pictag.app/share/Nwc94"><image src = "https://pictag.app/api/pictures/share/Nwc94" alt="Workspace setup shared by Sean(@memoryboxphotobooth)" width="250px" height="250px"></image></a>
 <a href="https://pictag.app/share/KGVvZ"><image src = "https://pictag.app/api/pictures/share/KGVvZ" alt="Workspace setup shared by Sean(@memoryboxphotobooth)" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/share/HTQT1"><image src = "https://pictag.app/api/pictures/share/HTQT1" alt="Workspace setup shared by Anon" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/share/KGVvZ"><image src = "https://pictag.app/api/pictures/share/KGVvZ" alt="Workspace setup shared by Sean(@memoryboxphotobooth)" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/share/GlBoC"><image src = "https://pictag.app/api/pictures/share/GlBoC" alt="Workspace setup shared by Sean(@memoryboxphotobooth)" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/share/XYVI0"><image src = "https://pictag.app/api/pictures/share/XYVI0" alt="Workspace setup shared by Sean(@memoryboxphotobooth)" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/share/J3JZd"><image src = "https://pictag.app/api/pictures/share/J3JZd" alt="Workspace setup shared by Sean(@memoryboxphotobooth)" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/share/M9iux"><image src = "https://pictag.app/api/pictures/share/M9iux" alt="Workspace setup shared by Sean(@memoryboxphotobooth)" width="250px" height="250px"></image></a>
-<a href="https://pictag.app/share/ykG5r"><image src = "https://pictag.app/api/pictures/share/ykG5r" alt="Workspace setup shared by Sean(@memoryboxphotobooth)" width="250px" height="250px"></image></a>
+<a href="https://pictag.app/share/HTQT1"><image src = "https://pictag.app/api/pictures/share/HTQT1" alt="clean Desk setup" width="250px" height="250px"></image></a>
+<a href="https://pictag.app/share/GlBoC"><image src = "https://pictag.app/api/pictures/share/GlBoC" alt="Minimal Desk setup for programmers" width="250px" height="250px"></image></a>
+<a href="https://pictag.app/share/XYVI0"><image src = "https://pictag.app/api/pictures/share/XYVI0" alt="Desk setup for photographers" width="250px" height="250px"></image></a>
+<a href="https://pictag.app/share/J3JZd"><image src = "https://pictag.app/api/pictures/share/J3JZd" alt="Workstations for designers" width="250px" height="250px"></image></a>
+<a href="https://pictag.app/share/M9iux"><image src = "https://pictag.app/api/pictures/share/M9iux" alt="Awesome list of workstations" width="250px" height="250px"></image></a>
+<a href="https://pictag.app/share/ykG5r"><image src = "https://pictag.app/api/pictures/share/ykG5r" alt="WFH setup" width="250px" height="250px"></image></a>
 <a href="#"><image src = "http://placehold.it/350x350.jpg&text=Your+Setup+Here" alt="Workplace" width="250px" height="250px"></image></a>
 
 # To Contribute
